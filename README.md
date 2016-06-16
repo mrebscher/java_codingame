@@ -1,4 +1,4 @@
 # java_codingame
 
-The Descint
-Power of Thor - Episode 1
+The Descint;
+Power of Thor - Episode 1;
